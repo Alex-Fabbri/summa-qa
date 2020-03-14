@@ -1,0 +1,11 @@
+README.md
+setup.py
+summaqa/__init__.py
+summaqa/f1_squad.py
+summaqa/qa_models.py
+summaqa/summaqa.py
+summaqa.egg-info/PKG-INFO
+summaqa.egg-info/SOURCES.txt
+summaqa.egg-info/dependency_links.txt
+summaqa.egg-info/requires.txt
+summaqa.egg-info/top_level.txt
